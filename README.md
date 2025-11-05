@@ -96,6 +96,8 @@
 ![Abdrahman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=abdrahman22053&show_icons=true&theme=radical&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrahman22053&count_private=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdrahman22053&count_private=true&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrahman22053&theme=radical)  
+
  
 
 <!-- <div align="center">  
