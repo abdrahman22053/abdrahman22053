@@ -93,14 +93,24 @@
 ---
 
 ### 📊 GitHub Stats  
-![Abdrahman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=abdrahman22053&show_icons=true&theme=radical&count_private=true)  
+<!-- ![Abdrahman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=abdrahman22053&show_icons=true&theme=radical&count_private=true)   -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrahman22053&count_private=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdrahman22053&count_private=true&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdrahman22053&theme=radical)  
+
+
+<div align="center">  
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdrahman22053&show_icons=true&theme=radical&count_private=true" /> -->
+  <img width="49%" src="https://streak-stats.demolab.com/?user=abdrahman22053&theme=radical&hide_border=false" />
+  
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrahman22053&layout=compact&theme=radical&count_private=true" />
+</div>
 
  
-
-<!-- <div align="center">  
+<!-- 
+<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdrahman22053&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Ahmed Abdat github stats" />   
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=abdrahman22053&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />  
 </div>  -->
