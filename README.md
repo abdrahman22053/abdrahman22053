@@ -32,17 +32,19 @@
 
 ### 🛠️ Tech Stack
 
-#### 🎨 Frontendbaogo=react&logoColor=000)](https://react.dev/)
+#### 🎨 Frontend
+
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)](https://nextjs.org/)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)](https://angular.io/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.iodeveloper.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io//badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)](https://tailwindge/-TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badg
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://e/-React-61DAFB?ldcss.com/)
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)](https://flutter.dev/)
+
 
 ---
 
