@@ -98,15 +98,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdrahman22053&count_private=true&layout=compact&theme=radical)  
 
 
-<div align="center">  
-  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdrahman22053&show_icons=true&theme=radical&count_private=true" /> -->
-  <img width="49%" src="https://streak-stats.demolab.com/?user=abdrahman22053&theme=radical&hide_border=false" />
-  
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdrahman22053&layout=compact&theme=radical&count_private=true" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=abdrahman22053&theme=radical&hide_border=false)
 
  
 <!-- 
