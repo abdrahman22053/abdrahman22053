@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+Developer;💡+Passionate+about+AI,+Cloud+and+DevOps;🤖+Student+in+Machine+Learning+%26+Data+Engineering;🙌+Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </p>
 
+---
+
 
 <p align="center">
   <img src="assets/full-stack-developper.png" alt="Full Stack Developer Illustration" width="90%" />
@@ -17,23 +19,29 @@
 ---
 
 ### 🧠 About Me
-- 🔭 Currently working with **Next.js**, **Angular**, **Spring Boot**, and **React**
-- 🌱 Learning **Machine Learning**, **Data Engineering**, **Big Data Technolgies** and **Cloud Architecture**
-- 🧰 Experienced with **CI/CD**, **Docker**, **Kubernetes**, and **GitHub Actions**
-- 💬 Ask me about **DevOps pipelines**, **containerization**, and **scalable web apps**
-- ⚡ Fun fact: I love building **elegant frontends** powered by **strong backends** 😎
+- 🔭 Currently working with ```Next.js```, ```Angular```, ```Spring Boot```, and ```React```.
+- 🌱 Learning ```Machine Learning```, ```Data Engineering```, ```Big Data Technolgies``` and ```Cloud Architecture```.
+- 🧰 Experienced with ```CI/CD```, ```Docker```,
+ ```Kubernetes``` and ```GitHub Actions```
+- 💬 Ask me about ```DevOps pipelines```, ```containerization```, and ```scalable web apps```.
+- ⚡ Fun fact: I love building ```elegant frontends``` powered by ```strong backends``` 😎
+
+
+---
+
+
 ### 🛠️ Tech Stack
 
-#### 🎨 Frontend
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)](https://react.dev/)
+#### 🎨 Frontendbaogo=react&logoColor=000)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)](https://nextjs.org/)
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff)](https://angular.io/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
+[![TailwindCSS](https://img.shields.iodeveloper.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io//badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff)](https://tailwindge/-TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badg
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://e/-React-61DAFB?ldcss.com/)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff)](https://flutter.dev/)
 
 ---
